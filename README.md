@@ -36,6 +36,8 @@ Android d'abord, iOS ensuite.
 - [`data/base-vehicules-vsp.xlsx`](data/base-vehicules-vsp.xlsx) : base des véhicules (une ligne par motorisation, avec sa source).
 - [`data/vehicules.csv`](data/vehicules.csv) : export CSV de cette base, pour l'application.
 
-## Données
+## Licence
+
+Code sous licence [Apache 2.0](LICENSE).
 
 Cartes © contributeurs [OpenStreetMap](https://www.openstreetmap.org/copyright), sous licence ODbL.
