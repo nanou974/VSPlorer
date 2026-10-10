@@ -5,3 +5,7 @@
 .gradle/
 build/
 local.properties
+prototype/routage-tarn/donnees/
+prototype/routage-tarn/graphes/
+prototype/routage-tarn/sortie/inventaire.json
+__pycache__/
